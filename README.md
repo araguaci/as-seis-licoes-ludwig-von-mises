@@ -12,9 +12,11 @@
 
 ## Prefácio 
 
-> **“O presente livro reflete plenamente a posição fundamental do autor, que lhe valeu – e ainda lhe vale – a admiração dos discípulos e os insultos dos adversários. Ao mesmo tempo que cada uma das seis lições pode figurar separadamente como um ensaio independente, a harmonia da série proporciona um prazer estético similar ao que se origina da contemplação da arquitetura de um edifício bem concebido”. **
+> **O presente livro reflete plenamente a posição fundamental do autor, que lhe valeu – e ainda lhe vale – a admiração dos discípulos e os insultos dos adversários. Ao mesmo tempo que cada uma das seis lições pode figurar separadamente como um ensaio independente, a harmonia da série proporciona um prazer estético similar ao que se origina da contemplação da arquitetura de um edifício bem concebido.**
 > 
-> ~~ Fritz Machlup, Princeton, 1979 
+> ~~ Fritz Machlup, Princeton, 1979
+
+  - [AS SEIS LIÇÕES](https://asseislicoes.netlify.app)
 
 Em fins de 1958, meu marido foi convidado pelo Dr. Alberto Benegas Lynch para pronunciar uma série de conferências na Argentina, e eu o acompanhei. Este livro contém a transcrição das palavras dirigidas por ele nessas conferências a centenas de estudantes argentinos. 
 
